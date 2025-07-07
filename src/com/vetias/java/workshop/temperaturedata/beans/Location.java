@@ -1,4 +1,4 @@
-package com.vetias.java.workshop.temperaturedata.beans;
+package com.vetias.java.workshop.temperaturedata.beans; 
 
 public class Location {
     
@@ -72,6 +72,9 @@ public class Location {
                 ", address:"+ address+
                 ", postalcode:"+ postalcode + "}";
              }
-    }
+             
+
+             }
+    
 
 
