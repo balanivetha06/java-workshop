@@ -1,4 +1,8 @@
+<<<<<<< HEAD:src/main/java/com/vetias/workshop/basic/Wordcount.java
 package src.main.java.com.vetias.workshop.basic;
+=======
+package src.com.vetias.java.workshop.basic;
+>>>>>>> fd2b7a0b34ef8ad720d975c4715b6db3df349389:src/com/vetias/java/workshop/basic/Wordcount.java
 
 public class Wordcount {
     public static void main(String[] args){
@@ -20,5 +24,8 @@ public class Wordcount {
 
 }
 }
+<<<<<<< HEAD:src/main/java/com/vetias/workshop/basic/Wordcount.java
 
 }
+=======
+>>>>>>> fd2b7a0b34ef8ad720d975c4715b6db3df349389:src/com/vetias/java/workshop/basic/Wordcount.java
