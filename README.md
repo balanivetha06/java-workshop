@@ -1,4 +1,4 @@
-# java-workshop
+ java-workshop
 this is my first java workshop
 intro of java
 application of java
