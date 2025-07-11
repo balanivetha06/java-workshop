@@ -1,4 +1,4 @@
-package src.main.java.com.vetias.workshop.basic;
+package com.vetias.workshop.basic;
 
     import java.io.BufferedReader;
     import java.io.FileReader;

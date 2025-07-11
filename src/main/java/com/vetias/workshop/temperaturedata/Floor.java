@@ -1,4 +1,4 @@
-package s
+package com.vetias.java.workshop.basic;
 
 public class Floor {
     private String name;

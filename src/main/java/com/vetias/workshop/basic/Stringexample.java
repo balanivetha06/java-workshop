@@ -1,4 +1,4 @@
-package src.main.java.com.vetias.workshop.basic;
+package com.vetias.workshop.basic;;
 
 public class Stringexample {
     public static void main(String[]args){

@@ -1,8 +1,5 @@
-<<<<<<< HEAD:src/main/java/com/vetias/workshop/basic/Agecalculate.java
-package src.main.java.com.vetias.workshop.basic;
-=======
-package src.com.vetias.java.workshop.basic;
->>>>>>> fd2b7a0b34ef8ad720d975c4715b6db3df349389:src/com/vetias/java/workshop/basic/Agecalculate.java
+
+package main.java.com.vetias.workshop.basic;
 import java.time.LocalDate;
 import java.util.Scanner;
 public class Agecalculate {
@@ -21,10 +18,3 @@ public class Agecalculate {
     }
 
 }
-<<<<<<< HEAD:src/main/java/com/vetias/workshop/basic/Agecalculate.java
-
-
-
-}
-=======
->>>>>>> fd2b7a0b34ef8ad720d975c4715b6db3df349389:src/com/vetias/java/workshop/basic/Agecalculate.java
